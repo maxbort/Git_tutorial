@@ -6,4 +6,5 @@ def mul(a,b):
 	return a*b
 def div(a,b):
 	return a//b
-	# test
+def rem(a,b):
+	return a%b
